@@ -1,0 +1,1 @@
+#starts the application and calls the router to begin the cli program flow

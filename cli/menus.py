@@ -1,0 +1,1 @@
+#displays all cli menus and collects user input for login ,role selection ,and dashboards
