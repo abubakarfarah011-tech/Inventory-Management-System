@@ -1,0 +1,1 @@
+#define the laptop class with name price and quantity using OOP structure
