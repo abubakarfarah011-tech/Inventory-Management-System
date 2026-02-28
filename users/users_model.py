@@ -1,1 +1,0 @@
-#define the user class with encapsulated email and password using OOP  principle
